@@ -1,0 +1,13 @@
+{
+  "name": "multipart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<alexanderdaily001@gmail.com>",
+  "private": true,
+  "scripts": {
+    "r": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
